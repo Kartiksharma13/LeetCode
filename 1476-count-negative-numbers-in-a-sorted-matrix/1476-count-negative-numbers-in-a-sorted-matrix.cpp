@@ -3,13 +3,11 @@ public:
     int countNegatives(vector<vector<int>>& grid) {
         int n= grid.size(); //for rows
         int m= grid[0].size(); //for columns
-        int ans=0;
-
+        int ans=0; 
+        
         for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(grid[i][j]<0) 
-                ans++;
-            }
+            int index = upper_bound(begin(grid[i]),end(grid[i]),0,greater<int>())-begin(grid[i]);
+                ans = ans+(m-index);
         }
         return ans;
     }
