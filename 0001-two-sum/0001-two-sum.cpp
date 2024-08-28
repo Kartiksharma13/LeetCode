@@ -2,21 +2,14 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n= nums.size();
-        vector<pair<int,int>> nindex;
-        for(int i=0; i<n; i++){
-            nindex.push_back({nums[i],i});
-        }
-        sort(nindex.begin(),nindex.end());
+        unordered_map<int , int> nmap;
 
-        int left=0, right=nindex.size()-1; //two pointers
-        while(left<right){
-            int sum = nindex[left].first + nindex[right].first;
-            if(sum == target){
-                return{nindex[left].second,nindex[right].second};
+        for(int i=0; i<n; i++){
+            int remaining = target - nums[i];
+            if(nmap.find(remaining)!= nmap.end()){
+                return{nmap[remaining],i};
             }
-            else if(sum<target){
-                left++;
-            } else right--;
+            nmap[nums[i]] = i;
         }
         return{};
     }
