@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartiksharma13/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -61,5 +62,10 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kartiksharma13/LeetCode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
