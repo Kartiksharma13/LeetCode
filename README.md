@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Kartiksharma13/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Kartiksharma13/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartiksharma13/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kartiksharma13/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
