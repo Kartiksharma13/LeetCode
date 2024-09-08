@@ -78,8 +78,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kartiksharma13/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kartiksharma13/LeetCode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kartiksharma13/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
