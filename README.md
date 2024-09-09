@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/Kartiksharma13/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartiksharma13/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -35,6 +36,7 @@
 | [0075-sort-colors](https://github.com/Kartiksharma13/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
