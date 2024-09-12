@@ -2,10 +2,7 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int n= nums.size();
-        unordered_set<int> set;
-        for(int i=0; i<n; i++){ //Insert all elements in set
-            set.insert(nums[i]);
-        }
+        unordered_set<int> set(nums.begin(),nums.end());
         int ans=0;
         for(int i=0; i<n; i++){
             if(set.find(nums[i]-1) == set.end()){ //only check the number if it is lowest in set i.e, skip if the previous number is present in set
