@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Kartiksharma13/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kartiksharma13/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Kartiksharma13/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kartiksharma13/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kartiksharma13/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartiksharma13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
