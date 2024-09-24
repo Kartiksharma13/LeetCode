@@ -112,6 +112,7 @@
 | [0062-unique-paths](https://github.com/Kartiksharma13/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kartiksharma13/LeetCode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -164,4 +165,5 @@
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
