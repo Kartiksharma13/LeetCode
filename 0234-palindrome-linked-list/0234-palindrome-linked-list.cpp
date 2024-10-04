@@ -11,19 +11,32 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode *temp = head;
-        stack<int> st;
-        while(temp != NULL){
-            st.push(temp->val);
-            temp = temp->next;
+        ListNode *fast =head, *slow = head;
+        //first find middle of ll
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        temp = head;
-        while(temp != NULL){
-            if( temp->val != st.top()){
+        // Reversing the ll after middle elements
+        if(fast != NULL && fast->next==NULL){
+            slow = slow->next;
+        }
+        ListNode *prev = NULL;
+        while(slow!=NULL && slow->next!=NULL){
+            ListNode *temp = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = temp;
+        }
+        if(slow != NULL){ slow->next = prev; }
+        // Compariing both lists
+        fast = head;
+        while(slow!=NULL && fast!=NULL){
+            if(slow->val != fast->val){
                 return false;
             }
-            st.pop();
-            temp = temp->next;
+            slow = slow->next;
+            fast = fast->next;
         }
         return true;
     }
