@@ -12,17 +12,18 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         ListNode *temp = head;
-        vector<int> pal;
+        stack<int> st;
         while(temp != NULL){
-            pal.push_back(temp->val);
+            st.push(temp->val);
             temp = temp->next;
         }
         temp = head;
-        int n= pal.size();
-        for(int i=0; i<n/2; i++){
-            if(pal[i] != pal[n-i-1]){
+        while(temp != NULL){
+            if( temp->val != st.top()){
                 return false;
             }
+            st.pop();
+            temp = temp->next;
         }
         return true;
     }
