@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kartiksharma13/LeetCode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kartiksharma13/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Kartiksharma13/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -93,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kartiksharma13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
