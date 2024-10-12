@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kartiksharma13/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Binary Search
@@ -213,4 +215,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
