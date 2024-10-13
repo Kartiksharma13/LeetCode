@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -147,6 +149,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartiksharma13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Kartiksharma13/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
