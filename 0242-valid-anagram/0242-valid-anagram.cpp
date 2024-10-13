@@ -1,17 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int> count(127,0);
+        unordered_map<char,int> m1;
+        unordered_map<char,int> m2;
+
         for(int i=0; i<s.size(); i++){
-            count[s[i] - 'a']++;
+            m1[s[i]]++;
         }
         for(int i=0; i<t.size(); i++){
-            count[t[i] - 'a']--;
+            m2[t[i]]++;
         }
-        for(int i=0; i<count.size(); i++){
-            if(count[i]!=0)
-            return false;
+        if(m1 == m2){
+            return true;
         }
-        return true;
+        return false;
     }
 };
