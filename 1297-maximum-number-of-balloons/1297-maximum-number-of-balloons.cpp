@@ -9,8 +9,8 @@ public:
         while(mp['b']>=1 && mp['a']>=1 && mp['l']>=2 && mp['o']>=2 && mp['n']>=1){
             mp['b']--;
             mp['a']--;
-            mp['l'] = mp['l']-2;
-            mp['o'] = mp['o']-2;
+            mp['l'] -= 2;
+            mp['o'] -= 2;
             mp['n']--;
             count++;
         }
