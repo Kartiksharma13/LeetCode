@@ -23,7 +23,7 @@ public:
             odd = odd->next;
             even = even->next;
         }
-        odd->next = connect;
+        odd->next = connect; //connected odd's end to even's start
         return head;
     }
 };
