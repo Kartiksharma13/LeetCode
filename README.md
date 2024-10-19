@@ -34,6 +34,7 @@
 | [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Kartiksharma13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -75,6 +76,7 @@
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Binary Search
@@ -211,6 +213,7 @@
 | [0045-jump-game-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kartiksharma13/LeetCode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Linked List
 |  |
 | ------- |
