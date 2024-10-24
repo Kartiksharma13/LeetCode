@@ -1,22 +1,31 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int i = 0, n = s.size();
-        string ans = "";
-        while (i < n) {
-            while (i < n && s[i] == ' ') {
-                i++;
+        int n = s.size(), i=0;
+        string temp ="", ans = "";
+        while(i<n){
+            if(s[i] != ' '){
+                temp += s[i];
             }
-            if(i>=n) break;
-            int j = i + 1;
-            while(j<n && s[j]!=' '){
-                j++;
+            else if(temp != ""){
+                if(ans != ""){
+                    ans = temp + " " + ans;
+                }
+                else{
+                    ans = temp;
+                }
+                temp = "" ;
             }
-            string sub = s.substr(i, j - i);
-            if (ans.length() == 0) ans = sub;
-            else ans = sub + " " + ans;
-            
-            i = j + 1;
+            i++;
+        }
+        //for checking the last word because there is no space after last word
+        if(temp != ""){
+            if(ans != ""){
+                ans = temp+ " " +ans;
+            }
+            else {
+                ans = temp;
+            }
         }
         return ans;
     }
