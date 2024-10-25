@@ -41,6 +41,7 @@
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
