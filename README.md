@@ -160,6 +160,7 @@
 | [0050-powx-n](https://github.com/Kartiksharma13/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Kartiksharma13/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kartiksharma13/LeetCode/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -171,6 +172,7 @@
 | [0058-length-of-last-word](https://github.com/Kartiksharma13/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Recursion
 |  |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
