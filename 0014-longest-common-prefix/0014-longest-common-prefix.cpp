@@ -9,7 +9,7 @@ public:
             if(first[i] != last[i]){
                 return ans;
             }
-            ans += last[i];
+            ans += first[i];
         }
         return ans;
     }
