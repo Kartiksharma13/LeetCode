@@ -177,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
@@ -219,6 +221,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartiksharma13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
