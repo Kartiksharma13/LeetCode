@@ -66,6 +66,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -119,6 +120,7 @@
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -176,6 +178,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartiksharma13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
