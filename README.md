@@ -69,6 +69,7 @@
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/Kartiksharma13/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
@@ -180,6 +181,7 @@
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1894-merge-strings-alternately](https://github.com/Kartiksharma13/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
