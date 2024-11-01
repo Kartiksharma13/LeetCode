@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartiksharma13/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Kartiksharma13/LeetCode/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kartiksharma13/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
@@ -147,6 +148,7 @@
 | [0062-unique-paths](https://github.com/Kartiksharma13/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Kartiksharma13/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartiksharma13/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartiksharma13/LeetCode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
