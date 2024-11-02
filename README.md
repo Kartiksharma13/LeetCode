@@ -90,6 +90,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/Kartiksharma13/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
 |  |
 | ------- |
