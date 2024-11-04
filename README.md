@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Kartiksharma13/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kartiksharma13/LeetCode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Kartiksharma13/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kartiksharma13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Kartiksharma13/LeetCode/tree/master/0048-rotate-image) |
@@ -113,6 +114,7 @@
 | [0001-two-sum](https://github.com/Kartiksharma13/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartiksharma13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Kartiksharma13/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kartiksharma13/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0128-longest-consecutive-sequence) |
