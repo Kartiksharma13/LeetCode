@@ -70,6 +70,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kartiksharma13/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kartiksharma13/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -157,6 +158,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartiksharma13/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartiksharma13/LeetCode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -189,6 +191,7 @@
 | [0125-valid-palindrome](https://github.com/Kartiksharma13/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Kartiksharma13/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
