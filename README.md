@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartiksharma13/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kartiksharma13/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kartiksharma13/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kartiksharma13/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -100,6 +101,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kartiksharma13/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Kartiksharma13/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -164,6 +166,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kartiksharma13/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kartiksharma13/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
