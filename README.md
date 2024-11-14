@@ -205,6 +205,7 @@
 | [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Kartiksharma13/LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Kartiksharma13/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/Kartiksharma13/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -313,4 +314,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Kartiksharma13/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
