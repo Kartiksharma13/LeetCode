@@ -134,6 +134,7 @@
 | [0217-contains-duplicate](https://github.com/Kartiksharma13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Kartiksharma13/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kartiksharma13/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Kartiksharma13/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
@@ -202,6 +204,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Kartiksharma13/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Kartiksharma13/LeetCode/tree/master/0443-string-compression) |
