@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kartiksharma13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -168,6 +169,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kartiksharma13/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartiksharma13/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
+| [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -187,6 +189,7 @@
 | [0062-unique-paths](https://github.com/Kartiksharma13/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kartiksharma13/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Kartiksharma13/LeetCode/tree/master/0415-add-strings) |
+| [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartiksharma13/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -324,4 +327,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kartiksharma13/LeetCode/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
