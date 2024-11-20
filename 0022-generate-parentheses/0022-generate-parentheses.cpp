@@ -1,5 +1,8 @@
 class Solution {
 public:
+    //only add open(oc) parentheses if less than n
+    //only add close(cc) parentheses if less than open
+    //if oc==n and cc==n end
     void generate(vector<string> &ans, int n, int oc, int cc, string s){
         if(oc == n && cc == n){
             ans.push_back(s);
