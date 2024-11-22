@@ -49,6 +49,7 @@
 | [0941-sort-array-by-parity](https://github.com/Kartiksharma13/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kartiksharma13/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartiksharma13/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kartiksharma13/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kartiksharma13/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
@@ -178,6 +179,7 @@
 | [0392-is-subsequence](https://github.com/Kartiksharma13/LeetCode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Kartiksharma13/LeetCode/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartiksharma13/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Kartiksharma13/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartiksharma13/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/Kartiksharma13/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kartiksharma13/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kartiksharma13/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -289,6 +292,7 @@
 | [0135-candy](https://github.com/Kartiksharma13/LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Kartiksharma13/LeetCode/tree/master/0455-assign-cookies) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kartiksharma13/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Linked List
 |  |
 | ------- |
