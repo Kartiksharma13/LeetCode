@@ -43,6 +43,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Kartiksharma13/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Kartiksharma13/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Kartiksharma13/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kartiksharma13/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/Kartiksharma13/LeetCode/tree/master/0909-stone-game) |
@@ -144,6 +145,7 @@
 | [0229-majority-element-ii](https://github.com/Kartiksharma13/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kartiksharma13/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Kartiksharma13/LeetCode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Kartiksharma13/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kartiksharma13/LeetCode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Kartiksharma13/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Kartiksharma13/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kartiksharma13/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kartiksharma13/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kartiksharma13/LeetCode/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
